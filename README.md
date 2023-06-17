@@ -1,3 +1,9 @@
+
+👀 Использовано:
+-☑️ TypeScript
+-1️⃣ React
+-2️⃣ react-router-dom
+
 # Main
 ![Capture2](https://github.com/KayChicken/React-Infinite-Scrolling-TS/assets/105989236/e3ee3ac4-d6a8-4f6e-bae9-a23ad161db94)
 
